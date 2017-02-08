@@ -19,7 +19,7 @@ $quote = ['“You should enjoy the little detours to the fullest. Because that i
 	<br>
 	<h1>Celia Tang</h1>
 	<br>
-	<img src="bunny1.jpg" height="20%" width="20%"> </img>
+	<img src="bunny1.jpg" alt="bunny"/> 
 	<br>
 	<br>
 	<h2>About Me</h2>
