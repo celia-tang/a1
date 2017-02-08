@@ -23,7 +23,9 @@ $quote = ['“You should enjoy the little detours to the fullest. Because that i
 	<br>
 	<br>
 	<h2>About Me</h2>
-	<p>blablabal</p>
+	<p>I am currenlty finishing up my last semester for a Masters Degree in Music Performance at the University of Toronto. (I play clarinet!) 
+		I am also co-currently pursuing an ALM Degree at the Harvard Extension School. 
+		I decided to take this course as it seems the world is progressing to a place where the web space is becoming more and more prominent and I thought that this course would be useful. </p>
 	<h2>Quote: </h2>
 	<p> <?php echo $quote[rand(0, 2)] ?> </p>
 
